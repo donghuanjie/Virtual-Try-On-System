@@ -17,8 +17,8 @@ AI-powered virtual try-on system using OpenAI's image generation models. **Speci
 | Original Clothing | Generated Model | Final Try-On Result |
 |-------------------|-----------------|---------------------|
 | ![Clothing](./imgs/examples/cloth1.jpg) | ![Model](./imgs/examples/model1.jpg) | ![Result](./imgs/examples/result1.jpg) |
-| ![Clothing](./imgs/examples/cloth2.jpg) | ![Model](./imgs/examples/model2.jpg) | ![Result](./imgs/examples/result2.jpg) |
-| ![Clothing](./imgs/examples/cloth3.jpg) | ![Model](./imgs/examples/model3.jpg) | ![Result](./imgs/examples/result3.jpg) |
+| ![Clothing](./imgs/examples/cloth2.png) | ![Model](./imgs/examples/model2.jpg) | ![Result](./imgs/examples/result2.jpg) |
+| ![Clothing](./imgs/examples/cloth3.png) | ![Model](./imgs/examples/model3.jpg) | ![Result](./imgs/examples/result3.jpg) |
 
 ## 🚀 Quick Start
 
