@@ -1,0 +1,14 @@
+openai>=1.50.0
+openai-agents
+python-dotenv>=1.0.0
+requests>=2.31.0
+fastapi[standard]>=0.100.0
+Pillow>=10.0.0
+python-multipart>=0.0.6
+
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+asyncio-mqtt==0.13.0
+
+# 启动脚本需要的依赖
+requests>=2.31.0
