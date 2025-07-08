@@ -211,6 +211,7 @@ temp/
 
 # Generated images and uploads
 imgs/
+!imgs/examples/
 uploads/
 generated_images/
 model_images/
