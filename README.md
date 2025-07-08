@@ -4,7 +4,7 @@ AI-powered virtual try-on system using OpenAI's image generation models. **Speci
 
 ## ✨ Features
 
-- 🤖 **Multi-Agent Architecture**: Model description, image generation, clothing merge, and clothing validation agents
+- 🤖 **Multi-Agent Architecture**: Model generation, clothing merge, and clothing validation agents
 - 👕 **Upper Clothing Only**: Specifically designed for upper clothing try-on (shirts, jackets, tops, etc.)
 - 🔍 **Smart Clothing Detection**: AI agents automatically identify and validate upper clothing items
 - 🎯 **Customizable Models**: Control gender, age, nationality, height, weight and other parameters
